@@ -1,0 +1,30 @@
+*{ 
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Catamaran', sans-serif;
+}
+
+.container { 
+    width: 100%;
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+.clearflix{
+    clear: both;
+}
+
+::-webkit-scrollbar{width: 10px;}
+::-webkit-scrollbar-track{background:#194058}
+::-webkit-scrollbar-thumb{background: #f1b732; border-radius: 10px;}
+::-webkit-scrollbar-thumb{background: #555;}
+
+.logo-top{ 
+    width: 230px;padding-top: 3%;
+}
+
+.banner{
+    background: url(../image/image.jpg);
+    height: 100vh;
+    background-size: 100% 100%;
+}
